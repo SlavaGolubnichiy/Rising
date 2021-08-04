@@ -1,6 +1,6 @@
 # Rising
 Rising - 2d action game, where you avoid enemies and get points. Rising is the early implementation of the game Rise, now available at https://github.com/SlavaGolubnichiy/Rise.
-The goal of this project is to learn and use OpenGL, which is new to me, and make interesting project, such as an action game.
+The goal of this project is to gain experience in computer graphics and game development by implementing interesting project, such as an action game. Graphics created using OpenGL library.
 
 You can navigate through the project and explore it and try [the latest releases](https://github.com/SlavaGolubnichiy/Rising/releases).
 
